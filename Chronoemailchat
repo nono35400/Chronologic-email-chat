@@ -1,0 +1,15 @@
+# EML Chronological Reorganizer
+
+## Overview
+This is a web application that allows users to upload `.eml` email files, reorder the content chronologically, and download the reorganized emails as a `.pdf` document. 
+
+## Features
+- Upload `.eml` files from your computer.
+- Reorganize emails according to their timestamps in chronological order.
+- Download a `.pdf` file with the emails sorted correctly.
+
+## Installation
+
+1. Clone this repository to your local machine:
+   ```bash
+   git clone <repository_url>
